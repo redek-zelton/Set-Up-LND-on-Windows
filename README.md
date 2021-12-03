@@ -39,7 +39,7 @@ zmqpubrawtx=tcp://127.0.0.1:28333
 listen=localhost
 # Public P2P IP
 externalip=localhost
-alias=J&PNODE
+alias= #SetAlias
 # choose from: https://www.color-hex.com/
 color=#3dc9b3
 maxpendingchannels=5
